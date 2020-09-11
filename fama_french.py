@@ -65,3 +65,7 @@ def get_price_yahoo(ticker,date_end = int(time()),date_start=None,freq='1d'):
 def get_price(ticker,date_end,date_start):
 
     return None
+
+def get_risk_free():
+
+    return None
